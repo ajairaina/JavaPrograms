@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-07-05T15:19:50 IST" name="Default suite" finished-at="2023-07-05T15:19:56 IST" duration-ms="6172">
+    <groups>
+    </groups>
+    <test started-at="2023-07-05T15:19:50 IST" name="Default test" finished-at="2023-07-05T15:19:56 IST" duration-ms="6172">
+      <class name="API.Sumvalidations">
+        <test-method signature="Sumofcourses()[pri:0, instance:API.Sumvalidations@759d26fb]" started-at="2023-07-05T15:19:50 IST" name="Sumofcourses" finished-at="2023-07-05T15:19:56 IST" duration-ms="5985" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Sumofcourses -->
+      </class> <!-- API.Sumvalidations -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
